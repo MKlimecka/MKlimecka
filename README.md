@@ -18,14 +18,19 @@ Testing: JUnit 5 · Mockito · pytest · Locust
 
 
 🚀 Original Projects
+
 Vocab Tracker — Spring Boot · PostgreSQL · JWT
 
 Vocabulary learning app with automatic translation and spaced repetition system.
 
 JWT authentication with BCrypt password hashing
+
 Integration with MyMemory Translation API
+
 Priority-based daily review algorithm (NEW → REPEAT → KNOWN → MASTERED)
+
 Full CRUD with user data isolation
+
 
 
 Appointment Manager API — Django REST Framework · PostgreSQL
@@ -33,12 +38,16 @@ Appointment Manager API — Django REST Framework · PostgreSQL
 Production-ready REST API for appointment booking systems.
 
 Role-based permissions (Client, Provider, Admin)
+
 Dynamic time slot generation based on working hours and service duration
+
 Conflict detection to prevent overlapping appointments
+
 Swagger/ReDoc documentation
 
 
 📚 Extended Course Projects
+
 These projects are based on Code with Mosh courses but include custom features I added independently.
 Spring Boot Store API — Spring Boot · JWT · Flyway
 Course base: REST API fundamentals.
@@ -46,8 +55,11 @@ Course base: REST API fundamentals.
 My additions:
 
 Database seeding with BCrypt password hashing via Flyway migration
+
 Separate dev/prod configuration profiles
+
 Logout implementation
+
 Additional unit and integration tests (CartService, UserService, OrderService)
 
 Django E-commerce — Django · DRF · Celery · Redis
@@ -56,7 +68,9 @@ Course base: full-stack e-commerce.
 My additions:
 
 Custom endpoints: favorites, user cart
+
 Frontend built with HTML, Bootstrap 5 and JavaScript (fetch API, localStorage)
+
 Django signals auto-creating Customer, Cart and Favorites on user registration
 
 
